@@ -5,7 +5,8 @@ Version:	1.0
 Release:	1
 License:	GPL
 Group:		X11/Applications
-Source0:	http://www.devhelp.net/books/books/pango-1.0.tar.gz
+#Source0:	http://www.devhelp.net/books/books/pango-1.0.tar.gz
+Source0:	pango-1.0.tar.gz
 # Source0-md5:	a0b8d34677a331c947b78c9d163d0bbf
 URL:		http://www.devhelp.net/
 Requires:	devhelp
