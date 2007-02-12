@@ -1,5 +1,5 @@
 Summary:	DevHelp book: Pango
-Summary(pl.UTF-8):   Książka do DevHelpa o Pango
+Summary(pl.UTF-8):	Książka do DevHelpa o Pango
 Name:		devhelp-book-pango
 Version:	1.0
 Release:	1
