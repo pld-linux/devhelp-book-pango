@@ -1,5 +1,5 @@
 Summary:	DevHelp book: Pango
-Summary(pl):	Ksi±¿ka do DevHelpa o Pango
+Summary(pl.UTF-8):   KsiÄ…Å¼ka do DevHelpa o Pango
 Name:		devhelp-book-pango
 Version:	1.0
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 DevHelp book about Pango.
 
-%description -l pl
-Ksi±¿ka do DevHelpa o Pango.
+%description -l pl.UTF-8
+KsiÄ…Å¼ka do DevHelpa o Pango.
 
 %prep
 %setup -q -c -n pango-1.0
